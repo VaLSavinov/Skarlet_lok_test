@@ -1987,3 +1987,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.15-17.58.21:090][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.02.15-17.58.21:099][898]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.02.15-17.58.21:128][898]LogViewport: Scene viewport resized to 921x852, mode Windowed.
+[2024.02.15-18.00.07:198][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.15-18.00.07:268][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/test_lok/test_lok" FILE="../../../../Skarlet_lok_test/Scarl_test_loc/Content/test_lok/test_lok.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.15-18.00.07:291][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.02.15-18.00.07:410][300]LogSavePackage: Moving output files for package: /Game/test_lok/test_lok
+[2024.02.15-18.00.07:410][300]LogSavePackage: Moving '../../../../Skarlet_lok_test/Scarl_test_loc/Saved/test_lokFA619ADA41CF774ADAEB899FB9A3A56D.tmp' to '../../../../Skarlet_lok_test/Scarl_test_loc/Content/test_lok/test_lok.umap'
+[2024.02.15-18.00.07:417][300]LogFileHelpers: Saving map 'test_lok' took 0.150
+[2024.02.15-18.00.07:424][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 1.25 sec)
+[2024.02.15-18.00.07:427][300]AssetCheck: New page: Asset Save: test_lok
+[2024.02.15-18.00.07:427][300]LogContentValidation: Display: Validating /Script/Engine.World /Game/test_lok/test_lok.test_lok
